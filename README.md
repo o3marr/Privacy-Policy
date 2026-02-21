@@ -1,7 +1,7 @@
 # Privacy-Policy
 Privacy Policy — Black System Bot
 
-The Black System bot processes message content only when required to provide context-based assistance and support features داخل Discord servers.
+The Black System bot processes message content only when required to provide context-based assistance and support features Discord servers.
 
 Data Usage:
 
